@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi 👋 I'm Ludan
+
+🎓 Data Science Student
+
+## 🌱 Currently learning
+- 
+
+## 📫 Contact
 
 <!--
 **LDan777/LDan777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
